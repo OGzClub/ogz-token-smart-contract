@@ -11,7 +11,7 @@
     "verify-mainnet": "npx hardhat run --network mainnet scripts/verify.ts"
   },
   "keywords": [],
-  "author": "guvenemirhan",
+  "author": "ogzclub",
   "license": "ISC",
   "devDependencies": {
     "@ethersproject/providers": "^5.7.2",
